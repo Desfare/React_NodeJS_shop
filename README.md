@@ -9,4 +9,4 @@ client start: npm start
 server start: npm run dev
 
 
-Special thank to Ulbi 
+Special thanks to Ulbi 
